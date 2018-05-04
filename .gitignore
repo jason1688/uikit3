@@ -12,7 +12,7 @@
 !/dist/js/uikit-icons.js
 !/dist/js/uikit-icons.min.js
 /node_modules
-/tests/js/test*
+!/tests/js/test*
 /tests/css/*
 custom
 themes.json
